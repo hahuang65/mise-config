@@ -2,6 +2,9 @@ cookiecutter
 copier
 debugpy
 goobook
+ipykernel
+jupyter_client
+jupytext
 pipenv
 poetry
 pre-commit
