@@ -1,7 +1,7 @@
 bundler
 neovim
 rubocop
-rubocop-factory_ot
+rubocop-factory_bot
 rubocop-minitest
 rubocop-performance
 rubocop-rails
