@@ -1,11 +1,5 @@
-cookiecutter
-copier
 debugpy
-ipykernel
-jupyter_client
-jupytext
-pipenv
-poetry
+marimo
 pre-commit
 pynvim
-plex-mpv-shim
+uv
