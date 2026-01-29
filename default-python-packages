@@ -1,5 +1,5 @@
 debugpy
-marimo
+marimo[recommended]
 pre-commit
 pynvim
 uv
