@@ -1,5 +1,3 @@
 debugpy
 marimo[recommended]
-pre-commit
 pynvim
-uv

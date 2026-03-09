@@ -18,4 +18,20 @@ if ! command -v "mise" &>/dev/null; then
   fi
 fi
 
-mise use -gy golang@latest node@latest python@latest awscli@latest
+mise use -gy \
+  awscli@latest \
+  bun@latest \
+  golang@latest \
+  golangci-lint@latest \
+  gotestsum@latest \
+  gum@latest \
+  jqp@latest \
+  lefthook@latest \
+  node@latest \
+  pre-commit@latest \
+  python@latest \
+  ruby@latest \
+  staticcheck@latest \
+  uv@latest \
+  vhs@latest \
+  yarn@latest
