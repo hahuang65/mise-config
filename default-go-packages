@@ -7,6 +7,7 @@ github.com/charmbracelet/vhs
 github.com/evilmartians/lefthook
 github.com/go-delve/delve/cmd/dlv
 github.com/golangci/golangci-lint/cmd/golangci-lint
+github.com/goreleaser/goreleaser/v2
 github.com/karol-broda/snitch
 github.com/kiki-ki/go-qo/cmd/qo
 github.com/maaslalani/glyphs
