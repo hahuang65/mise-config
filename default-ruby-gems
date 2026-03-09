@@ -1,5 +1,6 @@
 bundler
 neovim
+rails
 rubocop
 rubocop-factory_bot
 rubocop-minitest
