@@ -12,3 +12,4 @@ github.com/samyakbardiya/trex
 golang.org/x/tools/cmd/godoc
 golang.org/x/tools/cmd/goimports
 mvdan.cc/gofumpt
+golang.org/x/tools/gopls
